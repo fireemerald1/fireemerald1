@@ -18,8 +18,8 @@ Im a random dudes on the internet who have interest in coding and stuff
 
 ## 🛠️ Skills
 
-- **Languages**: ![Python](https://img.shields.io/badge/Python-FF0000?style=flat-square&logo=python&logoColor=white)
-- **Interests**: ![Photography](https://img.shields.io/badge/Photography-00FFFF?style=flat-square&logo=adobe&logoColor=white) ![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-FF0000?style=flat-square&logo=figma&logoColor=white) ![Robotics](https://img.shields.io/badge/Robotics-00FFFF?style=flat-square&logo=arduino&logoColor=white) ![Piano](https://img.shields.io/badge/Piano-FF0000?style=flat-square&logo=apple-music&logoColor=white)
+- **Languages**: Python
+- **Interests**: Photography, UI/UX Design, Robotics, Piano (jazz and pop)
 
 ## 📂 Projects
 
@@ -30,9 +30,9 @@ Im a random dudes on the internet who have interest in coding and stuff
 ## 🎨 Design & Style
 
 My main color :
-- ![Primary](https://img.shields.io/badge/Primary-FF0000?style=flat-square) #ff0000 (Red)
-- ![Secondary](https://img.shields.io/badge/Secondary-00FFFF?style=flat-square) #00ffff (Cyan)
-- ![Background](https://img.shields.io/badge/Background-000000?style=flat-square) #000000 (Black)
+- Primary: #ff0000 (Red)
+- Secondary: #00ffff (Cyan)
+- Background: #000000 (Black)
 
 ## 📫 Connect With Me
 
